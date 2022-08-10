@@ -2,12 +2,8 @@ Olá! Bem-vindo. Eu sou a larissa Secario
 
 - 🌱 Estudante de Java e JavaScript 
 - 📫 Contato: Larissasecario@hotmail.com
-
-<div>
-<a href ="https://github.com/larissasecario">
- <img height="180em" src="html://github-readme-stats.vercel.app/upi?username=larissasecario&show_icons=true*theme=dark&include_all_commits=true&count_"/>
-
-
-</div>
-
 ##
+<div>
+ <img align="center" alt="Lala-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Lala-Jv" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+</div>

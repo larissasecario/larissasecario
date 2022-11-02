@@ -1,6 +1,6 @@
 Olá! Bem-vindo. Eu sou a larissa Secario da Silva
 
-- 🌱 Estudante de Java, JavaScript, MySql e Python
+- 🌱 Estudante de JavaScript, HTML, CSS, Java e MySql
 - 📫 Contato: Larissasecario@hotmail.com
 ##
 <div>

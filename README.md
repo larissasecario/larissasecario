@@ -1,8 +1,7 @@
-<h2 align="left">Olá! Bem-vindo. Eu sou Larissa Secario da Silva</h2>
+<h2 align="left">Hi! Welcome. I am Larissa Secario da Silva.</h2>
 
-
-- 🌱 Estudando Ciência da Computação
-- 📫 Contato: Larissasecario@hotmail.com
+- 🌱 Studying Computer Science
+- 📫 Email: Larissasecario@hotmail.com
 
 ###
 
